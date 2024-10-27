@@ -1,17 +1,4 @@
 # BYTE
-
-Cohere RAG Hackathon Winner/Google Solutions '24 Top 10
-
-_Nutritionist in your pocket_
-
-Find more about BYTE, watch tutorial video and download APK here: https://byte-apk.streamlit.app/
-
-Note: only available for Android devices currently
-
-Demo video (1 min): https://youtu.be/5hlkNOqAejk
-
-Longer video (2 mins): https://drive.google.com/file/d/1dpZpletm2pCn_Yz4FDHCueIINXEvsD7_/view?usp=drivesdk
-
 ## Project Setup
 ### Prerequisites:
 
